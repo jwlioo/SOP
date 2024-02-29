@@ -1,0 +1,33 @@
+color 09
+cd desktop
+ren Atividade01 Trabalhos
+md Documentos
+cd Documentos
+copy con projetos
+
+del  projetos
+mkdir projetos
+mkdir Pessoais
+cd ..
+dir
+move Trabalhos Documentos
+move Backup Documentos
+cd Documentos
+ren Pessoais Lazer
+cd Lazer
+copy con Viagem.txt
+Italia
+Espanha
+Chile
+Estados Unidos
+Belgica
+dir
+tree /f
+cd ..
+tree /f
+cd ..
+doskey h/ 
+doskey /h
+doskey /h julio02.txt
+doskey /history julio02.txt
+doskey /h >> julio02.txt
