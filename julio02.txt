@@ -22,11 +22,11 @@ Chile
 Estados Unidos
 Belgica
 dir
-tree /f
 cd ..
 tree /f
 cd ..
-doskey h/ 
+doskey /h >>
+
 doskey /h
 doskey /h julio02.txt
 doskey /history julio02.txt
