@@ -20,6 +20,7 @@ cls
 cd Atividade01
 del Notas01.txt
 del Notas02.txt
+fc Notas 01.txt Notas02.txt
 dir
 cd ..
 doskey /h >> julio.txt
