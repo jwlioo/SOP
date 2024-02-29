@@ -1,0 +1,25 @@
+cd desktop
+md Atividade01
+cd Atividade01
+copy con Notas01.txt
+bin die princesi
+
+copy con Notas02.txt
+pifivi sinti ni glicki
+type Notas02.txt
+cd ..
+md Backup
+cd Backup
+cd ..
+copy Atividade01
+dir
+copy Atividade01 Backup
+del Notas01.txt
+del Notas02.txt
+cls
+cd Atividade01
+del Notas01.txt
+del Notas02.txt
+dir
+cd ..
+doskey /h >> julio.txt
